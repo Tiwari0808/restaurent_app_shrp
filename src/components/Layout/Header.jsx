@@ -14,9 +14,6 @@ const Header = (props) => {
       <div className={classes["main-image"]}>
         <img src={headerImg} alt="header-img" />
       </div>
-      <main>
-        <Meals></Meals>
-      </main>
     </>
   );
 };
